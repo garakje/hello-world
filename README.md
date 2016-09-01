@@ -1,3 +1,3 @@
 # hello-world
-# my first script
-# my name is bskim
+ my first script
+ my name is bskim
